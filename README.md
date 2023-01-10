@@ -1,2 +1,2 @@
 # blog-comments
-Comments of https://devsuyoung.vercel.app/
+Comments of https://suyoung.vercel.app/
